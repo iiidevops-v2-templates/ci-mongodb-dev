@@ -1,6 +1,6 @@
 {
   "name": "MongoDB 4.4",
-  "description": "Mongodb 4.4-debian-10 <a class='el-link el-link--primary' href='https://github.com/iiidevops-templates/mongodb-dev/blob/master/README.md' target='_blank'>mongodb 部署注意事項</a><hr /><ul><li><strong>v2.0</strong>:更新CI自動化腳本</li></ul>",
+  "description": "Mongodb 4.4-debian-10 <a class='el-link el-link--primary' href='https://github.com/iiidevops-v2-templates/ci-mongodb-dev/blob/master/README.md' target='_blank'>mongodb 部署注意事項</a><hr /><ul><li><strong>v2.0</strong>:更新CI自動化腳本</li></ul>",
   "arguments": [
     {
       "key": "db.username",
